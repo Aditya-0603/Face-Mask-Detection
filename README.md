@@ -61,9 +61,3 @@ Data Collection → Preprocessing → Model Training → Evaluation → Deployme
 - Validation Accuracy: ~96–97%  
 - Minor overfitting observed after multiple epochs  
 
-face-mask-detection/
-│
-├── app.py                 # Streamlit app
-├── mask_detector.h5       # Trained model
-├── requirements.txt       # Dependencies
-├── README.md              # Documentation
